@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Analytics projects on Python and SQL
 - - 📫 How to reach me Srinivasj1987@outlook.com
 
-##Skills
+###Skills
 💻 Languages: Python, SQL, JavaScript, HTML, CSS, NoSQL
 📊 Applications: Tableau, MongoDB, SQLite, PostgreSQL, Flask
 🛠️ Tools: Excel, Pandas, Jupyter Notebook, Matplotlib, TensorFlow
